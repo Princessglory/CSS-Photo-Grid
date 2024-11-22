@@ -3,7 +3,7 @@
 ## This project is a simple responsive photo gallery built with HTML and CSS. It uses CSS Grid to layout images and its adjust based on the available screen space.
 
 ## Features
- - Responsive layout: The photo gallery uses the grid-template-columns with auto-fill to adjust the layout of different screen sizes.
+ - Responsive layout: The photo gallery uses the grid-template-columns with auto-fill to adjust the layout of the available screen space.
  - Design style: Images have rounded corners.
 
 ## INSTALLATION AND USAGE
